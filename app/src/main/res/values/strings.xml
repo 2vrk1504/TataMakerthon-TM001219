@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TataMakerthon</string>
+    <string name="camera_error">Camera Error</string>
+    <string name="picture">Picture</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="intro_message">Intro message</string>
+    <string name="description_info">Description</string>
+</resources>
